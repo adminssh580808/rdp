@@ -14,4 +14,3 @@ systemctl start xrdp.service
 systemctl enable xrdp.service
 systemctl status xrdp.service
 systemctl set-default graphical.target
-reboot
