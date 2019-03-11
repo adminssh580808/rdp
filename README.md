@@ -1,5 +1,5 @@
 # UBUNTU
-* wget https://github.com/adminssh580808/rdp/raw/master/ubuntu/xrdp.sh && chmod +x xrdp.sh && ./xrdp.sh && rm -f xrdp.sh"
+* wget https://github.com/adminssh580808/rdp/raw/master/ubuntu/xrdp.sh && chmod +x xrdp.sh && ./xrdp.sh && rm -f xrdp.sh
 *
 *
 # CENTOS
