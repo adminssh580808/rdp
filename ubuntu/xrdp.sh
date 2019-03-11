@@ -1,6 +1,6 @@
-echo "===================================="
-echo "Selamat Datang di Fawzya.Net"
-echo "===================================="
+echo "====================================="
+echo "   Selamat Datang di Setting XRDP"
+echo "====================================="
 sudo apt-get update -y 
 sudo apt-get install -y xfce4 xfce4-goodies
 sudo apt-get install -y firefox
