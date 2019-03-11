@@ -1,5 +1,5 @@
 echo "====================================="
-echo "   Selamat Datang di Setting XRDP"
+echo "  Selamat Datang di Instalasi XRDP"
 echo "====================================="
 sudo apt-get update -y 
 sudo apt-get install -y xfce4 xfce4-goodies
