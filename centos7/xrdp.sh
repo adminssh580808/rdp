@@ -1,7 +1,6 @@
-echo "
-===========================================
-       Selamat Datang Di Script XRDP
-==========================================="
+echo "====================================="
+echo "  Selamat Datang di Instalasi XRDP"
+echo "====================================="
 yum groupinstall "GNOME Desktop" -y
 rpm -Uvh https://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-8.noarch.rpm
 rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-1.el7.nux.noarch.rpm
